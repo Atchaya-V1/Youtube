@@ -28,41 +28,6 @@ Open index.html in your browser
 
 You can directly open the file or use a local server (recommended):
 
-bash
-Copy
-Edit
-# If you have Python installed
-python -m http.server
-Search and watch videos ad-free!
-
-🔑 API Key Setup
-To use the YouTube Data API:
-
-Go to Google Cloud Console
-
-Create a new project and enable YouTube Data API v3
-
-Generate an API key
-
-Replace the YOUR_API_KEY placeholder in your JavaScript file with your actual API key:
-
-js
-Copy
-Edit
-const apiKey = "YOUR_API_KEY";
-🧾 License
-This project is licensed under the MIT License.
-
-Made with ❤️ for learning and experimenting.
-
-yaml
-Copy
-Edit
-
----
-
-Let me know if you'd like the actual `index.html` and `script.js` structure as well!
-
 
 
 
