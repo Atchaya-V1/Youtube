@@ -22,7 +22,7 @@ A simple web application that offers an ad-free YouTube viewing experience using
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/youtube-adfree-viewer.git
+   git clone https://github.com/Atchaya-V1/Youtube/tree/main
    cd youtube-adfree-viewer
 Open index.html in your browser
 
